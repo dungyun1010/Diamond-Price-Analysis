@@ -1,4 +1,4 @@
-# Regression   Diamond-Price-Prediction
+#  Diamond-Price-Prediction
 
 ## Diamonds
 
